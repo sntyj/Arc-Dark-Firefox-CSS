@@ -1,0 +1,24 @@
+/* CONFIGURATION PAGE FOR DEFAULT COLORS IN FIREFOX
+This was adapter from a post from cor-el on 20171002 to a Firefox Support
+forum here:
+https://support.mozilla.org/en-US/questions/1177844 
+/* This is the background color for when you press "new tab"*/
+@-moz-document url("about:newtab") {
+ body { background-color: #404552 !important;}
+}
+/*This is the text color for when you press "new tab"*/
+@-moz-document url("about:newtab") {
+ body { color: #b3b3b3 !important;}
+}
+/*This is the background color for when you first start Firefox, or when you press "home"
+if no home page is selected*/
+@-moz-document url("about:home") {
+ body { background-color: #404552 !important;}
+}
+/*This is the text color for whne you first start Firefox, or when you press "home" if no
+home page is selected*/
+@-moz-document url("about:home") {
+ body { color: #b3b3b3 !important;}
+}
+
+

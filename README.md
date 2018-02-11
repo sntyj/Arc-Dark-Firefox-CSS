@@ -1,5 +1,5 @@
-# Arc-Dark-Firefox-CSS
-Arc-Dark CSS sheet for new tab page in Firefox Quantum
+# Arc-Dark-Firefox-NewTab-Home
+Arc-Dark CSS sheet for the new tab and home page in Firefox Quantum.
 
 I based my code on a post posted on Firefox's Support forums (user: cor-el) [here.](https://support.mozilla.org/en-US/questions/1177844)
 

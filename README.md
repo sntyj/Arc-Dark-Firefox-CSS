@@ -8,7 +8,7 @@ I based my code on a post posted on Firefox's Support forums (user: cor-el) [her
 
 **Instructions:**
 - **For best results, set your Firefox theme to "Default"**
-- Go to Help > Troubleshooting Information (or go to about:support)
+- Go to Help > Troubleshooting Information (or go to [about:support](about:support))
 - Click on "Open Directory" found near Profile Directory
 - Create a "chrome" folder if there is not one already created. 
 - Copy this file into the chrome folder (or objectively just copy and paste the contents of the file to another "userContent.css")
